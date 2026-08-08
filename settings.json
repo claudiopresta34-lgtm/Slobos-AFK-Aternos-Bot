@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "boat_smp.aternos.me:34038",
+    "ip": "grison.aternos.host:34038",
     "port": 34038,
     "version": "",
     "try-creative": false
